@@ -1,6 +1,4 @@
 import { useEffect, useState } from 'react';
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
 import { api } from '../../lib/axios';
 import { ProjectCard } from '../../Components/ProjectCard';
 import { ComponenteList, Title } from './styles';

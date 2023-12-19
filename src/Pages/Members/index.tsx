@@ -1,9 +1,7 @@
 import { useEffect, useState } from 'react';
-import Button from 'react-bootstrap/Button';
-import { api } from '../../lib/axios';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { Back, CardComponent, ImageComponent, ListMembers, PageMenber, Title } from './styles';
-import { ArrowLeft, ArrowRight } from 'react-bootstrap-icons';
+import { ArrowLeft } from 'react-bootstrap-icons';
 
 interface Membro {
     name: string

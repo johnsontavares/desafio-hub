@@ -2,12 +2,11 @@ import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import { useNavigate } from 'react-router-dom';
-import { parseISO, isBefore, format } from 'date-fns';
+import { parseISO, format } from 'date-fns';
 import { CentralizeButton, ContainerDateProject, DateProject, LabelProject, Tag, TagsView, TimeProject } from './styles';
 
 export function ProjectCard({project}: any){
     console.log("project", project)
-    const [member, SetMember] = useState([])
     const [tags, SetTags] = useState([...project.tags])
 
     console.log("tags", tags)
@@ -33,7 +32,6 @@ export function ProjectCard({project}: any){
     console.log("formattedDate", formattedStartDate)
 
     function GetMembersData(data: any){
-        SetMember(data)
         SetTags(data.tags)
         navigate('/membros', {"state" : data});
         // console.log("tags", tags)
