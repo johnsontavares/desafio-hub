@@ -1,0 +1,264 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "name": "EcoTech Energy",
+        "iconUrl": "https://yt3.googleusercontent.com/ytc/APkrFKZDMTS90XogB-4fLByXzmmCb_TnwK_O09h--q7aDw=s900-c-k-c0x00ffffff-no-rj",
+        "description": "EcoTech Energy is a pioneering initiative focused on integrating energy efficiency solutions in industrial processes. It involves the development of smart energy monitoring and control systems, aiming at sustainability and innovation.",
+        "startDate": "2023-01-15",
+        "endDate": "2023-12-20",
+        "projectLink": "https://ecotechenergia.com",
+        "tags": ["Energy Efficiency", "Industry 4.0", "Sustainability"],
+        "companyName": "EcoTech Solutions",
+        "companyIconUrl": "https://cdn.enfsolar.com/ID/logo/5d392a8547d3c.jpg?v=1",
+        "members": [
+          {
+            "name": "John Silva",
+            "role": "Chief Engineer",
+            "description": "Responsible for developing innovative energy efficiency solutions.",
+            "photoUrl": "https://worthly.com/wp-content/uploads/2016/02/John-Lennon.png"
+          },
+          {
+            "name": "Mary Fernandes",
+            "role": "Project Manager",
+            "description": "Coordinates all stages of the project, ensuring timely delivery.",
+            "photoUrl": "https://observatoriodosfamosos.uol.com.br/portal/wp-content/uploads/2022/08/Mari-Fernandez.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Advanced Industry 4.0",
+        "iconUrl": "https://yt3.googleusercontent.com/ytc/APkrFKZDMTS90XogB-4fLByXzmmCb_TnwK_O09h--q7aDw=s900-c-k-c0x00ffffff-no-rj",
+        "description": "Advanced Industry 4.0 focuses on elevating industrial automation to new heights. It involves implementing cyber-physical systems, IoT, and big data analysis to transform the industrial production chain, enhancing efficiency and digitalization.",
+        "startDate": "2023-03-22",
+        "endDate": "2024-04-10",
+        "projectLink": "https://industria4-0.com",
+        "tags": ["Industry 4.0", "Process Improvement", "Technology"],
+        "companyName": "Advanced Industrial Tech",
+        "companyIconUrl": "https://www.totvs.com/wp-content/uploads/2018/12/industria-4.0-impactos-brasil-mundo.jpg",
+        "members": [
+          {
+            "name": "Carlos Gomes",
+            "role": "IoT Specialist",
+            "description": "Leads the development and integration of IoT solutions in the industrial environment.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          },
+          {
+            "name": "Ana Beatriz",
+            "role": "Data Analyst",
+            "description": "Analyzes large volumes of data to optimize production processes.",
+            "photoUrl": "https://lulacerda.ig.com.br/wp-content/uploads/2019/03/ana-barbosa-.jpeg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Green Future",
+        "iconUrl": "https://yt3.googleusercontent.com/ytc/APkrFKZDMTS90XogB-4fLByXzmmCb_TnwK_O09h--q7aDw=s900-c-k-c0x00ffffff-no-rj",
+        "description": "Green Future is an ambitious project focused on developing and implementing sustainable technologies for a greener, cleaner future. It covers renewable energy generation to sustainable mobility solutions, aiming to create a positive environmental impact through green technological innovations.",
+        "startDate": "2023-05-10",
+        "endDate": "2023-11-30",
+        "projectLink": "https://greenfuture.com",
+        "tags": ["Sustainability", "Eco-Friendly", "Green Technology"],
+        "companyName": "Green Innovations",
+        "companyIconUrl": "https://example.com/icon-green-innovations.png",
+        "members": [
+          {
+            "name": "Ricardo Souza",
+            "role": "Renewable Energy Specialist",
+            "description": "Focuses on developing new technologies for clean energy generation.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          },
+          {
+            "name": "Livia Martins",
+            "role": "Environmental Engineer",
+            "description": "Works on integrating sustainable practices throughout the project.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Smart City Solutions",
+        "iconUrl": "https://yt3.googleusercontent.com/ytc/APkrFKZDMTS90XogB-4fLByXzmmCb_TnwK_O09h--q7aDw=s900-c-k-c0x00ffffff-no-rj",
+        "description": "Smart City Solutions aims to integrate advanced technologies into urban planning to create more efficient, sustainable, and livable cities. This project focuses on smart infrastructure, IoT, and eco-friendly urban development.",
+        "startDate": "2023-06-01",
+        "endDate": "2024-05-31",
+        "projectLink": "https://smartcitysolutions.com",
+        "tags": ["Urban Development", "IoT", "Sustainability"],
+        "companyName": "Urban Tech Innovations",
+        "companyIconUrl": "https://example.com/icon-urban-tech.png",
+        "members": [
+          {
+            "name": "Tomás Almeida",
+            "role": "Urban Planner",
+            "description": "Oversees the integration of technology into urban development plans.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          },
+          {
+            "name": "Sara Costa",
+            "role": "Environmental Consultant",
+            "description": "Advises on sustainable practices and eco-friendly solutions in urban settings.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "HealthTech Innovation",
+        "iconUrl": "https://yt3.googleusercontent.com/ytc/APkrFKZDMTS90XogB-4fLByXzmmCb_TnwK_O09h--q7aDw=s900-c-k-c0x00ffffff-no-rj",
+        "description": "HealthTech Innovation is a project dedicated to developing cutting-edge technology solutions in healthcare. It focuses on telemedicine, patient data analysis, and developing new digital health tools.",
+        "startDate": "2023-04-15",
+        "endDate": "2024-03-30",
+        "projectLink": "https://healthtechinnovation.com",
+        "tags": ["Healthcare", "Data Analysis", "Digital Health"],
+        "companyName": "MediTech Solutions",
+        "companyIconUrl": "https://example.com/icon-meditech.png",
+        "members": [
+          {
+            "name": "Lucas Barros",
+            "role": "Medical Researcher",
+            "description": "Leads research and development of new digital healthcare tools.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          },
+          {
+            "name": "Isabela Rocha",
+            "role": "Data Scientist",
+            "description": "Analyzes patient data to improve healthcare delivery and outcomes.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "AgroTech Solutions",
+        "iconUrl": "https://yt3.googleusercontent.com/ytc/APkrFKZDMTS90XogB-4fLByXzmmCb_TnwK_O09h--q7aDw=s900-c-k-c0x00ffffff-no-rj",
+        "description": "AgroTech Solutions focuses on integrating technology in agriculture to enhance productivity and sustainability. The project involves precision farming, drone technology, and sustainable resource management.",
+        "startDate": "2023-07-10",
+        "endDate": "2024-08-15",
+        "projectLink": "https://agrotechsolutions.com",
+        "tags": ["Agriculture", "Technology", "Sustainability"],
+        "companyName": "Modern Farming Innovations",
+        "companyIconUrl": "https://example.com/icon-modern-farming.png",
+        "members": [
+          {
+            "name": "Pedro Gonçalves",
+            "role": "Agricultural Engineer",
+            "description": "Develops and implements precision farming techniques and technologies.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          },
+          {
+            "name": "Julia Santos",
+            "role": "Resource Manager",
+            "description": "Manages sustainable resource use and implements eco-friendly farming practices.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "EduTech Revolution",
+        "iconUrl": "https://yt3.googleusercontent.com/ytc/APkrFKZDMTS90XogB-4fLByXzmmCb_TnwK_O09h--q7aDw=s900-c-k-c0x00ffffff-no-rj",
+        "description": "EduTech Revolution is dedicated to transforming the educational sector through technology. The project includes developing interactive e-learning platforms, AI-driven personalized learning, and virtual classrooms.",
+        "startDate": "2023-02-20",
+        "endDate": "2024-01-25",
+        "projectLink": "https://edutechrevolution.com",
+        "tags": ["Education", "E-Learning", "Technology"],
+        "companyName": "Learning Innovators",
+        "companyIconUrl": "https://example.com/icon-learning-innovators.png",
+        "members": [
+          {
+            "name": "Roberto Dias",
+            "role": "Educational Technologist",
+            "description": "Leads the development of innovative e-learning solutions and platforms.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          },
+          {
+            "name": "Larissa Oliveira",
+            "role": "Content Strategist",
+            "description": "Designs engaging and educational content for digital learning platforms.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "FinTech Innovations",
+        "iconUrl": "https://yt3.googleusercontent.com/ytc/APkrFKZDMTS90XogB-4fLByXzmmCb_TnwK_O09h--q7aDw=s900-c-k-c0x00ffffff-no-rj",
+        "description": "FinTech Innovations is developing next-generation financial technologies, focusing on blockchain, digital banking, and smart payment systems. This project aims to revolutionize the finance sector by introducing more secure and efficient transaction methods.",
+        "startDate": "2023-08-01",
+        "endDate": "2024-07-20",
+        "projectLink": "https://fintechinnovations.com",
+        "tags": ["Finance", "Blockchain", "Digital Banking"],
+        "companyName": "Digital Finance Tech",
+        "companyIconUrl": "https://example.com/icon-digital-finance.png",
+        "members": [
+          {
+            "name": "Bruno Carvalho",
+            "role": "Blockchain Expert",
+            "description": "Spearheads the integration of blockchain technology in financial services.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          },
+          {
+            "name": "Fernanda Lima",
+            "role": "Digital Banking Specialist",
+            "description": "Focuses on developing innovative digital banking platforms and services.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "CyberSecurity Frontiers",
+        "iconUrl": "https://yt3.googleusercontent.com/ytc/APkrFKZDMTS90XogB-4fLByXzmmCb_TnwK_O09h--q7aDw=s900-c-k-c0x00ffffff-no-rj",
+        "description": "CyberSecurity Frontiers is dedicated to advancing cybersecurity measures. The project emphasizes developing robust security protocols, enhancing data protection, and creating awareness about digital safety practices.",
+        "startDate": "2023-09-15",
+        "endDate": "2024-10-30",
+        "projectLink": "https://cybersecurityfrontiers.com",
+        "tags": ["Cybersecurity", "Data Protection", "Security Awareness"],
+        "companyName": "SecureTech Innovations",
+        "companyIconUrl": "https://example.com/icon-securetech.png",
+        "members": [
+          {
+            "name": "Ricardo Mendes",
+            "role": "Security Analyst",
+            "description": "Leads the development of advanced cybersecurity solutions and protocols.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          },
+          {
+            "name": "Ana Paula",
+            "role": "Data Protection Officer",
+            "description": "Ensures compliance with data protection laws and develops data safety strategies.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "AI & Robotics Exploration",
+        "iconUrl": "https://yt3.googleusercontent.com/ytc/APkrFKZDMTS90XogB-4fLByXzmmCb_TnwK_O09h--q7aDw=s900-c-k-c0x00ffffff-no-rj",
+        "description": "AI & Robotics Exploration focuses on creating cutting-edge AI and robotics technologies. The project explores the development of intelligent robots, automation solutions, and AI-driven decision-making systems.",
+        "startDate": "2023-10-05",
+        "endDate": "2024-11-15",
+        "projectLink": "https://airoboticsexploration.com",
+        "tags": ["Artificial Intelligence", "Robotics", "Automation"],
+        "companyName": "AI Robotics Corp",
+        "companyIconUrl": "https://example.com/icon-ai-robotics-corp.png",
+        "members": [
+          {
+            "name": "Carlos Silva",
+            "role": "AI Researcher",
+            "description": "Focuses on the development of AI algorithms and machine learning models.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          },
+          {
+            "name": "Juliana Martins",
+            "role": "Robotics Engineer",
+            "description": "Designs and develops innovative robotic systems and solutions.",
+            "photoUrl": "https://thiagosouzarosa.files.wordpress.com/2008/09/carlosgomes-logo-mes20081.jpg"
+          }
+        ]
+      }
+    ]
+  }
